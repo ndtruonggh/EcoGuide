@@ -121,7 +121,7 @@ Oil and grease are included as indicators of petroleum-related contamination. El
 ### Expert-defined environmental suitability thresholds for *Rachycentron canadum*
 <div align="center">
 
-| Environmental Factor | Rank | Unsuitable | Suitable | Highly Suitable |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Environmental Factor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; Rank &nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unsuitable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suitable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Highly Suitable &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---: | :---: | :---: | :---: | :---: |
 | Salinity | 3 | <22; >32 | 22-<25; >30-32 | 25-30 |
 | pH | 4 | <7.5; >8.6 | 7.5-<7.8; >8.2-8.6 | 7.8-8.2 |
