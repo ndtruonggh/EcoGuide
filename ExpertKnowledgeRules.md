@@ -119,41 +119,28 @@ Fluoride (F<sup>-</sup>) and cyanide (CN<sup>-</sup>) are considered potential t
 Oil and grease are included as indicators of petroleum-related contamination. Elevated concentrations can adversely affect water quality and may interfere with respiration, feeding, and other physiological processes of fish. Overall, the expert-defined thresholds in the table above provide the basis for characterizing the environmental conditions of *R. canadum* into unsuitable, suitable, and highly suitable levels for the subsequent suitability scoring and classification process.
 
 ### Expert-defined environmental suitability thresholds for *Rachycentron canadum*
-<div style="display: flex; justify-content: center; width: 100%;">
+<div align="center">
 
-<table style="width: 100%; text-align: center; border-collapse: collapse;">
-  <thead>
-    <tr style="border-bottom: 2px solid #ccc;">
-      <th style="padding: 10px 15px;">Environmental Factor</th>
-      <th style="padding: 10px 15px;">Rank</th>
-      <th style="padding: 10px 15px;">Unsuitable</th>
-      <th style="padding: 10px 15px;">Suitable</th>
-      <th style="padding: 10px 15px;">Highly Suitable</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Salinity</td><td>3</td><td><22; >32</td><td>22-<25; >30-32</td><td>25-30</td></tr>
-    <tr><td>pH</td><td>4</td><td><7.5; >8.6</td><td>7.5-<7.8; >8.2-8.6</td><td>7.8-8.2</td></tr>
-    <tr><td>Sea water temperature</td><td>2</td><td><20; >34</td><td>20-<24; >30-34</td><td>24-30</td></tr>
-    <tr><td>DO</td><td>1</td><td><4; >8</td><td>4-6</td><td>>6-<8</td></tr>
-    <tr><td>TSS</td><td>8</td><td>>50</td><td>>=20; <=50</td><td><20</td></tr>
-    <tr><td>Ammonium (NH<sub>4</sub><sup>+</sup>-N)</td><td>5</td><td>>0.1</td><td>0.05-0.1</td><td><0.05</td></tr>
-    <tr><td>Phosphate (PO<sub>4</sub><sup>3-</sup>-P)</td><td>9</td><td>>0.2</td><td>0.1-0.2</td><td><0.1</td></tr>
-    <tr><td>Fluoride (F<sup>-</sup>)</td><td>14</td><td>>1.5</td><td>>1.0-<1.5</td><td><1.0</td></tr>
-    <tr><td>Cyanide (CN<sup>-</sup>)</td><td>6</td><td>>0.01</td><td>0.005-0.01</td><td><0.005</td></tr>
-    <tr><td>As</td><td>12</td><td>>0.005</td><td>0.002-0.005</td><td><0.002</td></tr>
-    <tr><td>Cd</td><td>13</td><td>>0.005</td><td>0.001-0.005</td><td><0.001</td></tr>
-    <tr><td>Pb</td><td>16</td><td>>0.05</td><td>0.02-0.05</td><td><0.02</td></tr>
-    <tr><td>Cr(VI)</td><td>11</td><td>>0.02</td><td>0.01-0.02</td><td><0.01</td></tr>
-    <tr><td>Total Chromium</td><td>19</td><td>>0.1</td><td>0.05-0.1</td><td><0.05</td></tr>
-    <tr><td>Cu</td><td>17</td><td>>0.2</td><td>0.1-0.2</td><td><0.1</td></tr>
-    <tr><td>Zn</td><td>15</td><td>>0.5</td><td>0.3-0.5</td><td><0.3</td></tr>
-    <tr><td>Mn</td><td>18</td><td>>0.5</td><td>0.25-0.5</td><td><0.25</td></tr>
-    <tr><td>Fe</td><td>10</td><td>>0.5</td><td>0.25-0.5</td><td><0.25</td></tr>
-    <tr><td>Oil and Grease</td><td>7</td><td>>0.5</td><td>0.2-0.5</td><td><0.2</td></tr>
-  </tbody>
-</table>
+| Environmental Factor | Rank | Unsuitable | Suitable | Highly Suitable |
+| :---: | :---: | :---: | :---: | :---: |
+| Salinity | 3 | <22; >32 | 22-<25; >30-32 | 25-30 |
+| pH | 4 | <7.5; >8.6 | 7.5-<7.8; >8.2-8.6 | 7.8-8.2 |
+| Sea water temperature | 2 | <20; >34 | 20-<24; >30-34 | 24-30 |
+| DO | 1 | <4; >8 | 4-6 | >6-<8 |
+| TSS | 8 | >50 | >=20; <=50 | <20 |
+| Ammonium (NH<sub>4</sub><sup>+</sup>-N) | 5 | >0.1 | 0.05-0.1 | <0.05 |
+| Phosphate (PO<sub>4</sub><sup>3-</sup>-P) | 9 | >0.2 | 0.1-0.2 | <0.1 |
+| Fluoride (F<sup>-</sup>) | 14 | >1.5 | >1.0-<1.5 | <1.0 |
+| Cyanide (CN<sup>-</sup>) | 6 | >0.01 | 0.005-0.01 | <0.005 |
+| As | 12 | >0.005 | 0.002-0.005 | <0.002 |
+| Cd | 13 | >0.005 | 0.001-0.005 | <0.001 |
+| Pb | 16 | >0.05 | 0.02-0.05 | <0.02 |
+| Cr(VI) | 11 | >0.02 | 0.01-0.02 | <0.01 |
+| Total Chromium | 19 | >0.1 | 0.05-0.1 | <0.05 |
+| Cu | 17 | >0.2 | 0.1-0.2 | <0.1 |
+| Zn | 15 | >0.5 | 0.3-0.5 | <0.3 |
+| Mn | 18 | >0.5 | 0.25-0.5 | <0.25 |
+| Fe | 10 | >0.5 | 0.25-0.5 | <0.25 |
+| Oil and Grease | 7 | >0.5 | 0.2-0.5 | <0.2 |
 
 </div>
-
-asdfasd
