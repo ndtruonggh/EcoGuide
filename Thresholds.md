@@ -14,7 +14,9 @@ The comprehensive grid search results are presented in Table \ref{tab:threshold_
 <a name="tab:threshold_grid"></a>
 *etailed Cross-Validation Macro F1 scores for the candidate suitability boundaries across five representative baseline models on the Sonneratia caseolaris dataset.*
 
-| $\tau_{HS/S}$ | $\tau_{S/US}$ | LogReg | KNN | SVM | XGBoost | MLP | Avg. F1 |
+<div align="center">
+
+| &nbsp;&nbsp;&nbsp;&nbsp; $\tau_{HS/S}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; $\tau_{S/US}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; LogReg &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; KNN &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; SVM &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; XGBoost &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; MLP &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Avg. F1 &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 0.800 | 0.550 | 0.7850 | 0.7920 | 0.8150 | 0.8350 | 0.8235 | 0.8101 |
 | 0.800 | 0.575 | 0.7875 | 0.7950 | 0.8180 | 0.8385 | 0.8260 | 0.8130 |
@@ -72,6 +74,8 @@ The comprehensive grid search results are presented in Table \ref{tab:threshold_
 | 0.950 | 0.675 | 0.7930 | 0.8015 | 0.8240 | 0.8450 | 0.8330 | 0.8193 |
 | 0.950 | 0.700 | 0.7900 | 0.7980 | 0.8210 | 0.8415 | 0.8295 | 0.8160 |
 | 0.950 | 0.725 | 0.7860 | 0.7940 | 0.8170 | 0.8375 | 0.8260 | 0.8121 |
+
+</div>
 
 ## Visual Topographic Analysis
 For an intuitive and direct visual understanding of the optimization landscape, Figure \ref{fig:heatmap} provides a heatmap representation of the Average Macro F1 scores. 
