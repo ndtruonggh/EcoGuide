@@ -82,7 +82,7 @@ This smooth topological degradation proves the non-randomness of the selected th
 
 <div align="center">
   <a name="fig:heatmap"></a>
-  <img src="Heatmap2.png" width="95%" alt="Heatmap of the Synchronized Average Macro F1 scores">
+  <img src="Images/Heatmap2.png" width="95%" alt="Heatmap of the Synchronized Average Macro F1 scores">
 </div>
 
 *Figure: Heatmap of the Synchronized Average Macro F1 scores across the threshold grid. The optimal performance peak is clearly localized at $\tau_{HS/S} = 0.875$ and $\tau_{S/US} = 0.675$, showing a smooth topological degradation as thresholds deviate from the optimum.*
