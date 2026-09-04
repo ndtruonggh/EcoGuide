@@ -81,7 +81,6 @@ The color gradient vividly illustrates the topological distribution of the model
 This smooth topological degradation proves the non-randomness of the selected thresholds. It confirms that $(0.875, 0.675)$ is the robust global maximum for generating ecologically meaningful and linearly separable risk features. Consequently, these values were fixed across all models and species evaluations in the main manuscript.
 
 <div align="center">
-  <a name="fig:heatmap"></a>
   <img src="Images/Heatmap2.png" width="95%" alt="Heatmap of the Synchronized Average Macro F1 scores">
 </div>
 
