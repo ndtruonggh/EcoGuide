@@ -17,37 +17,26 @@ Heavy metals, including As, Cd, Pb, Cu, and Zn, are considered potential stresso
 Therefore, the expert-defined thresholds in the table below were used to characterize the environmental conditions into unsuitable, suitable, and highly suitable levels for <i>S. caseolaris</i>.
 
 ### Expert-defined environmental suitability thresholds for *Sonneratia caseolaris*
-<div style="display: flex; justify-content: center; width: 100%;">
+<div align="center">
 
-<table style="width: 100%; text-align: center; border-collapse: collapse;">
-  <thead>
-    <tr style="border-bottom: 2px solid #ccc;">
-      <th style="padding: 10px 15px;">Environmental Factor</th>
-      <th style="padding: 10px 15px;">Rank</th>
-      <th style="padding: 10px 15px;">Unsuitable</th>
-      <th style="padding: 10px 15px;">Suitable</th>
-      <th style="padding: 10px 15px;">Highly Suitable</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Air temperature</td><td>5</td><td><20; >35</td><td>20-<25; >29-35</td><td>25-29</td></tr>
-    <tr><td>Rainfall</td><td>6</td><td><1500; >3000</td><td>1500-<1900; >2600-3000</td><td>1900-2600</td></tr>
-    <tr><td>Salinity</td><td>7</td><td><8; >25</td><td>8-<13; >21-25</td><td>13-21</td></tr>
-    <tr><td>Alkalinity</td><td>8</td><td><40; >200</td><td>40-<80; >160-200</td><td>80-160</td></tr>
-    <tr><td>pH</td><td>1</td><td><5.5; >8.5</td><td>5.5-<6.2; >7.7-8.5</td><td>6.2-7.7</td></tr>
-    <tr><td>NH<sub>3</sub></td><td>3</td><td><0.2; >0.5</td><td>0.2-<0.28; >0.42-0.5</td><td>0.28-0.42</td></tr>
-    <tr><td>H<sub>2</sub>S</td><td>4</td><td>>0.1</td><td>>0.05-0.1</td><td>0-0.05</td></tr>
-    <tr><td>Sea water temperature</td><td>2</td><td><17; >32</td><td>17-<22; >28-32</td><td>22-28</td></tr>
-    <tr><td>BOD<sub>5</sub></td><td>9</td><td>>50</td><td>>25-50</td><td>0-25</td></tr>
-    <tr><td>COD</td><td>10</td><td>>150</td><td>>75-150</td><td>0-75</td></tr>
-    <tr><td>TSS</td><td>11</td><td>>50</td><td>>25-50</td><td>0-25</td></tr>
-    <tr><td>As</td><td>14</td><td>>15</td><td>>12-15</td><td>0-12</td></tr>
-    <tr><td>Cd</td><td>12</td><td>>5</td><td>>2-5</td><td>0-2</td></tr>
-    <tr><td>Pb</td><td>13</td><td>>150</td><td>>100-150</td><td>0-100</td></tr>
-    <tr><td>Cu</td><td>15</td><td>>100</td><td>>70-100</td><td>0-70</td></tr>
-    <tr><td>Zn</td><td>16</td><td>>250</td><td>>200-250</td><td>0-200</td></tr>
-  </tbody>
-</table>
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Environmental Factor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; Rank &nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unsuitable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suitable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Highly Suitable &nbsp;&nbsp;&nbsp;&nbsp; |
+| :---: | :---: | :---: | :---: | :---: |
+| Air temperature | 5 | <20; >35 | 20-<25; >29-35 | 25-29 |
+| Rainfall | 6 | <1500; >3000 | 1500-<1900; >2600-3000 | 1900-2600 |
+| Salinity | 7 | <8; >25 | 8-<13; >21-25 | 13-21 |
+| Alkalinity | 8 | <40; >200 | 40-<80; >160-200 | 80-160 |
+| pH | 1 | <5.5; >8.5 | 5.5-<6.2; >7.7-8.5 | 6.2-7.7 |
+| NH<sub>3</sub> | 3 | <0.2; >0.5 | 0.2-<0.28; >0.42-0.5 | 0.28-0.42 |
+| H<sub>2</sub>S | 4 | >0.1 | >0.05-0.1 | 0-0.05 |
+| Sea water temperature | 2 | <17; >32 | 17-<22; >28-32 | 22-28 |
+| BOD<sub>5</sub> | 9 | >50 | >25-50 | 0-25 |
+| COD | 10 | >150 | >75-150 | 0-75 |
+| TSS | 11 | >50 | >25-50 | 0-25 |
+| As | 14 | >15 | >12-15 | 0-12 |
+| Cd | 12 | >5 | >2-5 | 0-2 |
+| Pb | 13 | >150 | >100-150 | 0-100 |
+| Cu | 15 | >100 | >70-100 | 0-70 |
+| Zn | 16 | >250 | >200-250 | 0-200 |
 
 </div>
 
@@ -69,42 +58,31 @@ Therefore, the expert-defined thresholds in the table above were used to charact
 
 ### Expert-defined environmental suitability thresholds for *Crassostrea gigas*
 
-<div style="display: flex; justify-content: center; width: 100%;">
+<div align="center">
 
-<table style="width: 100%; text-align: center; border-collapse: collapse;">
-  <thead>
-    <tr style="border-bottom: 2px solid #ccc;">
-      <th style="padding: 10px 15px;">Environmental Factor</th>
-      <th style="padding: 10px 15px;">Rank</th>
-      <th style="padding: 10px 15px;">Unsuitable</th>
-      <th style="padding: 10px 15px;">Suitable</th>
-      <th style="padding: 10px 15px;">Highly Suitable</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>DO</td><td>1</td><td><3; >8</td><td>3-<5; >7.5-8</td><td>5-7.5</td></tr>
-    <tr><td>Sea water temperature</td><td>3</td><td><20; >30</td><td>20-<22; >28-30</td><td>22-28</td></tr>
-    <tr><td>pH</td><td>4</td><td><6.8; >8.5</td><td>6.8-<7.0; >8.0-8.5</td><td>7.0-8.0</td></tr>
-    <tr><td>Salinity</td><td>2</td><td><10; >30</td><td>10-<15; >25-30</td><td>15-25</td></tr>
-    <tr><td>Alkalinity</td><td>7</td><td><60; >180</td><td>60-<80; >150-180</td><td>80-150</td></tr>
-    <tr><td>Transparency</td><td>8</td><td>>50</td><td>>20-50</td><td>0-20</td></tr>
-    <tr><td>NH<sub>3</sub></td><td>5</td><td>>0.1</td><td>>0.05-0.1</td><td>0-0.05</td></tr>
-    <tr><td>H<sub>2</sub>S</td><td>6</td><td>>0.08</td><td>>0.05-0.08</td><td>0-0.05</td></tr>
-    <tr><td>Air temperature</td><td>14</td><td><18; >33</td><td>18-<22; >30-33</td><td>22-30</td></tr>
-    <tr><td>BOD<sub>5</sub></td><td>11</td><td>>50</td><td>>30-50</td><td>0-30</td></tr>
-    <tr><td>COD</td><td>12</td><td>>150</td><td>>100-150</td><td>0-100</td></tr>
-    <tr><td>Coliform</td><td>10</td><td>>1000</td><td>>500-1000</td><td>0-500</td></tr>
-    <tr><td>TSS</td><td>9</td><td>>50</td><td>>25-50</td><td>0-25</td></tr>
-    <tr><td>CN<sup>-</sup></td><td>13</td><td>>0.01</td><td>0.005-0.01</td><td><0.005</td></tr>
-    <tr><td>As</td><td>16</td><td>>0.02</td><td>>0.01-0.02</td><td>0-0.01</td></tr>
-    <tr><td>Cd</td><td>17</td><td>>0.005</td><td>>0.0025-0.005</td><td>0-<0.0025</td></tr>
-    <tr><td>Pb</td><td>18</td><td>>0.05</td><td>>0.02-0.05</td><td>0-0.02</td></tr>
-    <tr><td>Cu</td><td>19</td><td>>0.02</td><td>>0.01-0.02</td><td>0-<0.01</td></tr>
-    <tr><td>Hg</td><td>15</td><td>>0.0005</td><td>>0.00025-0.0005</td><td><0.00025</td></tr>
-    <tr><td>Zn</td><td>20</td><td>>0.10</td><td>>0.03-0.10</td><td>0-0.03</td></tr>
-    <tr><td>Total Chromium</td><td>21</td><td>>0.1</td><td>>0.05-0.1</td><td><0.05</td></tr>
-  </tbody>
-</table>
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Environmental Factor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; Rank &nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unsuitable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suitable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Highly Suitable &nbsp;&nbsp;&nbsp;&nbsp; |
+| :---: | :---: | :---: | :---: | :---: |
+| DO | 1 | <3; >8 | 3-<5; >7.5-8 | 5-7.5 |
+| Sea water temperature | 3 | <20; >30 | 20-<22; >28-30 | 22-28 |
+| pH | 4 | <6.8; >8.5 | 6.8-<7.0; >8.0-8.5 | 7.0-8.0 |
+| Salinity | 2 | <10; >30 | 10-<15; >25-30 | 15-25 |
+| Alkalinity | 7 | <60; >180 | 60-<80; >150-180 | 80-150 |
+| Transparency | 8 | >50 | >20-50 | 0-20 |
+| NH<sub>3</sub> | 5 | >0.1 | >0.05-0.1 | 0-0.05 |
+| H<sub>2</sub>S | 6 | >0.08 | >0.05-0.08 | 0-0.05 |
+| Air temperature | 14 | <18; >33 | 18-<22; >30-33 | 22-30 |
+| BOD<sub>5</sub> | 11 | >50 | >30-50 | 0-30 |
+| COD | 12 | >150 | >100-150 | 0-100 |
+| Coliform | 10 | >1000 | >500-1000 | 0-500 |
+| TSS | 9 | >50 | >25-50 | 0-25 |
+| CN<sup>-</sup> | 13 | >0.01 | 0.005-0.01 | <0.005 |
+| As | 16 | >0.02 | >0.01-0.02 | 0-0.01 |
+| Cd | 17 | >0.005 | >0.0025-0.005 | 0-<0.0025 |
+| Pb | 18 | >0.05 | >0.02-0.05 | 0-0.02 |
+| Cu | 19 | >0.02 | >0.01-0.02 | 0-<0.01 |
+| Hg | 15 | >0.0005 | >0.00025-0.0005 | <0.00025 |
+| Zn | 20 | >0.10 | >0.03-0.10 | 0-0.03 |
+| Total Chromium | 21 | >0.1 | >0.05-0.1 | <0.05 |
 
 </div>
 
